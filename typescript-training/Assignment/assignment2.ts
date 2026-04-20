@@ -35,7 +35,7 @@ function isLoanEligible(
 
 
 
-// 🔹 Given Input
+//  Given Input
 const customerName = "John Doe";
 const creditScore = 680;
 const income = 45000.0;
